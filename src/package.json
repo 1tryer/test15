@@ -1,0 +1,10 @@
+{
+    "name": "@master/test15",
+    "license": "MIT",
+    "main": "index.js",
+    "private": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/1tryer/test15.git"
+    }
+}
